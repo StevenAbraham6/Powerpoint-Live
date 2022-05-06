@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/StevenAbraham6/Powerpoint-Live)
+
 # Powerpoint Live
 
 This simple macro aims to allow a Cisco Webex Devices to join a powerpoint live session. Using the Powerpoint webapp, you can generate a code when presenting in PPT live. With the macro, a user can enter this code on a compatible webex device and access the PPT live web application, allowing them to follow the presentation, access previously shared slides, view transctipts or even send reactions.   
