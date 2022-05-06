@@ -12,7 +12,7 @@ This simple macro aims at allowing Cisco Webex Devices to join a powerpoint live
 
 ## Installation
 
-**STEP 1** Access the web interface of your endpoint directly, and use the macro editor to Import the Javascript file _PPT LIVE.js_
+**STEP 1:** Access the web interface of your endpoint directly, and use the macro editor to Import the Javascript file _PPT LIVE.js_
 
-**STEP 2** Activate the _PPT LIVE_ macro. This automatically adds the reqiured xml configuration and your installation is complete.
+**STEP 2:** Activate the _PPT LIVE_ macro. This automatically adds the reqiured xml configuration and your installation is complete.
 
