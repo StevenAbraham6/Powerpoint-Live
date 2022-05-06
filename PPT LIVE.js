@@ -20,8 +20,7 @@ import xapi from 'xapi';
 var code = "abc"
 
 //STEP 1: Add and save this Js file as a macro on webex device 
-//STEP 2: RUN the added macro PPT LIVE
-// Supported Devices include Webex Desk Mini, Webex Desk, Webex Desk Pro  
+//STEP 2: RUN the added macro PPT LIVE 
 
 //bring up textinput to enter PPT Live Code
 
